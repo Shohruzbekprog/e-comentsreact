@@ -1,0 +1,22 @@
+#header {
+  background: brown;
+  box-shadow: 0px 4px 18px 0px rgba(0, 0, 0, 0.08);
+  position: fixed;
+  width: 100%;
+  z-index: 100;
+  opacity: 1;
+  background-color: white;
+} 
+ul {
+  background: brown;
+  box-shadow: 0px 4px 18px 0px rgba(0, 0, 0, 0.08);
+  position: fixed;
+  width: 100%;
+  z-index: 100;
+  opacity: 1;
+  background-color: wheat;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
